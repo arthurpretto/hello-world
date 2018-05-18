@@ -17,13 +17,6 @@ while user != comp:
     tent = tent + 1
 print('Parabéns! Você acertou em {} tentativas. O número pensado pelo computador é mesmo {}.'.format(tent, comp))
 
-# 059 crie um programa que leia 2 valores e mostre um menu na tela:
-'''[1] somar
-[2] multiplicar
-[3] maior
-[4] novos números
-[5] sair'''
-
 # 059 crie um programa que leia 2 valores e mostre um menu na tela: somar, multiplocar, numero >, novo n, sair
 
 n1 = int(input('Digite um número: '))
